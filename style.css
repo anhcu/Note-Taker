@@ -105,7 +105,8 @@ btn:focus{
     padding-bottom: 0.8rem;
 }
 
-.note-item. btn{
+.note-item 
+btn{
     margin-top: 0.8rem;
     background: #fff;
     border: 2px solid tomato;
@@ -120,3 +121,6 @@ btn:focus{
     }
 }
 
+.waring{
+    border-color: yellow;
+}
